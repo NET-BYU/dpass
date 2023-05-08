@@ -1,0 +1,21 @@
+Data Rate,Symbols caught,Packets caught,False Positives
+1,80,8,0
+1,80,8,2
+1,80,8,1
+1,80,8,0
+1,80,8,0
+10,80,8,0
+10,80,8,0
+10,80,8,1
+10,80,8,0
+10,80,8,0
+25,79,7,1
+25,80,8,1
+25,80,8,0
+25,80,8,0
+25,80,8,1
+unlimited,80,8,2
+unlimited,80,8,1
+unlimited,80,8,0
+unlimited,80,8,0
+unlimited,80,8,0

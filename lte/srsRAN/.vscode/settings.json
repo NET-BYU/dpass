@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "rf.h": "c",
+        "bitset": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "optional": "cpp",
+        "complex": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "cmath": "cpp",
+        "debug.h": "c"
+    }
+}
